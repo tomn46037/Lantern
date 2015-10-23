@@ -4,9 +4,9 @@
 #include <Bounce2.h>
 
 
-#define UP_PIN     2
+#define UP_PIN     4
 #define SELECT_PIN 3
-#define DOWN_PIN   4
+#define DOWN_PIN   2
 
 #define PIXEL_PIN    6    // Digital IO pin connected to the NeoPixels.
 
